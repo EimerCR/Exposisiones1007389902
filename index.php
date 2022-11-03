@@ -9,7 +9,7 @@
 </head>
 <body>
 <?php
-echo var_dump($_SERVER);
+echo "holaaaaa".var_dump($_SERVER);
 ?>
 </body>
 </html>
